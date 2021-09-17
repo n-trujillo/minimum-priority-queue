@@ -1,0 +1,9 @@
+Timing simulation for UnsortedMPQ with 100 jobs
+Timing: 0.0973 millisec
+
+Timing simulation for SortedMPQ with 100 jobs
+Timing: 0.0614 millisec
+
+Timing simulation for BinaryHeapMPQ with 100 jobs
+Timing: 0.0491 millisec
+
